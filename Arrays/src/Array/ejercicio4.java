@@ -17,7 +17,7 @@ public class ejercicio4 {
 		int[] array = new int[] {70, 3, 21, 9, 2};
       
        Scanner scn = new Scanner (System.in);
-       System.out.println("Introduce un número a ver si esta en la array :)");
+       System.out.println("Introduce un número a ver si esta en la array ");
        int num1 = scn.nextInt();
        int posicion = -1;
       
